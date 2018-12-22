@@ -38,5 +38,5 @@
 	<build>
 		<finalName>skp-code-marathon-manila</finalName>
 	</build>
-	<description>Code Samples for the Blog Article [Starting with Apache Maven]</description>
+	<description>Reference for the Blog Article [Starting with Apache Maven]</description>
 </project>
