@@ -5,8 +5,9 @@ MIT License, Copyright (c) 2018-19, <a href="https://www.cakeresume.com/sumith-k
 https://github.com/sumithpuri 
 <br>
 
+
 <p align='center'>
-<img src='https://drive.google.com/uc?export=1Vg4CZtq-6iEZXUzkJOmYmBa1OQqEQrRr'>
+<img src='https://drive.google.com/uc?export=view&id=1Vg4CZtq-6iEZXUzkJOmYmBa1OQqEQrRr'>
 </p>
 
 <hr>
